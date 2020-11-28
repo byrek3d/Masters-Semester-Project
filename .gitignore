@@ -1,3 +1,4 @@
 glove_data/*
 .ipynb_checkpoints/*
 .DS_Store
+dataset_cleaning/tj/*
