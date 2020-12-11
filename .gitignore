@@ -2,3 +2,5 @@ glove_data/*
 .ipynb_checkpoints/*
 .DS_Store
 dataset_cleaning/tj/*
+dataset_cleaning/Dataset 7/tweet_text_karabakh.csv
+dataset_cleaning/Dataset 7/tweet_text_shuffled.csv
