@@ -4,3 +4,4 @@ glove_data/*
 dataset_cleaning/tj/*
 dataset_cleaning/Dataset 7/tweet_text_karabakh.csv
 dataset_cleaning/Dataset 7/tweet_text_shuffled.csv
+word2vec_data/*
