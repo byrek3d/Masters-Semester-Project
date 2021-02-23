@@ -1,20 +1,13 @@
-# Masters-Semester-Project
+This research project was conducted as part of the EPFL Master's semester project in Data Science, in collaboration with the DIS Lab at EPFL. 
 
-Useful Articles:
+Author: GERALD SULA
 
-https://realpython.com/python-keras-text-classification/#further-reading
+Superviser: TUGRULCAN ELMAS
 
-https://towardsdatascience.com/text-classification-on-disaster-tweets-with-lstm-and-word-embedding-df35f039c1db
+Responible: PROF. KARL ABERER
 
-https://towardsdatascience.com/twitter-sentiment-analysis-classification-using-nltk-python-fa912578614c
+The full report of this project can be found [through this link](https://github.com/byrek3d/Masters-Semester-Project/blob/master/report.pdf)
 
-https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+Abstract:
 
-Datasets:
-
-1	- https://crisislex.org/data-collections.html#CrisisLexT26
-2	- https://crisisnlp.qcri.org/crisismmd
-3 	- https://github.com/aggarwalpiush/goodBadNewsTweet/blob/master/data/news_notnews_no_text.tsv
-4	- https://competitions.codalab.org/competitions/25845#learn_the_details-evaluation
-5	- https://mimran.me/papers/imran_shady_carlos_fernando_patrick_practical_2013.pdf (Resource #2 of https://crisisnlp.qcri.org)
-6	- https://crisisnlp.qcri.org/lrec2016/lrec2016.html
+<em>Existing studies have shown the usefulness of systems suchas supervised machine learning for detecting classes of mes-sages  in  social  platforms  like  Twitter  in  terms  of  informa-tiveness.  However  there  exist  very  recently  made  availableNatural  Processing  tools,  which  have  not  been  fully  takenadvantage  of  in  this  context.  Furthermore  previous  studieshave  focused  on  limited  numbers  of  sampled  data,  whichwas  typically  related  only  to  natural-disaster.  In  this  studywe have aggregated large amounts of annotated Tweets com-ing from multiple different topics, and built several classifiersusing a variety of NLP tools, including the very new BERTtransformer models. We demonstrate that the efficacy of suchmodels at identifying informative tweets is higher comparedto other recent approaches, as well as make available a newannotated dataset aggregated from 7 of the larges availablesources.</em>
