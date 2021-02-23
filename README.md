@@ -4,9 +4,9 @@ Author: GERALD SULA
 
 Superviser: TUGRULCAN ELMAS
 
-Responible: PROF. KARLABERER
+Responible: PROF. KARL ABERER
 
-The full report of this project can be found [through this link](https://github.com/byrek3d/Masters-Semester-Project/blob/master/main.ipynb)
+The full report of this project can be found [through this link](https://github.com/byrek3d/Masters-Semester-Project/blob/master/report.pdf)
 
 Abstract:
 
